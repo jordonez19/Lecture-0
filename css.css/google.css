@@ -1,0 +1,64 @@
+
+
+.buttons{
+            
+    float: right;
+    width: 150px;
+}
+
+.buttonSearch{
+
+    float: right;
+    width: 150px;
+    margin: 51px 30px 13px -14px;
+}
+
+#formview{
+
+
+    position: absolute;
+    top: 50%;
+    left: 29%;
+    
+}
+
+#googleimg{
+
+    margin: 29px auto auto 440px;
+    display: block;
+
+}
+#gsifl{
+    margin: 6px 
+    
+
+}
+
+#advanceView{
+
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 22px;
+
+}
+
+.inline{
+
+
+}
+
+#googleAdv{
+
+    border: 1px;
+    margin: -26px -31px -35px 3px;
+}
+
+.form-group{
+
+    color: dimgray;
+}
+
+.form-title{
+
+        color: dimgray;
+}
